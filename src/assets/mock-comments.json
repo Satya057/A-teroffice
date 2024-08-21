@@ -1,0 +1,76 @@
+[
+    {
+        "id": 1,
+        "parent_comment": "",
+        "user_name": "John Doe",
+        "user_image": "https://randomuser.me/api/portraits/men/10.jpg",
+        "comment_text": "Early in the morning, as the sun rose, John found himself lost in thought. He pondered the mysteries of life, wondering if things would ever be the same. The world around him felt distant and foreign, as if he had been transported to a place he didn't recognize. He could barely remember how he had arrived at this point, and the more he thought, the more the memories slipped away.",
+        "timestamp": "2024-08-15T15:13:05.093Z",
+        "like_count": 15,
+        "smile_count": 8,
+        "dislike_count": 3,
+        "replies": [
+            {
+                "id": 4,
+                "parent_comment": "John Doe",
+                "user_name": "Jane Smith",
+                "user_image": "https://randomuser.me/api/portraits/women/25.jpg",
+                "comment_text": "The early bird catches the worm, they say. Jane reflected on this old saying as she sipped her coffee, watching the world wake up around her. She knew that today would be just another day, but there was something about the morning that gave her hope for something new.",
+                "timestamp": "2024-08-16T14:41:55.621Z",
+                "like_count": 2,
+                "smile_count": 3,
+                "dislike_count": 1,
+                "replies": [
+                    {
+                        "id": 5,
+                        "parent_comment": "Jane Smith",
+                        "user_name": "Robert Brown",
+                        "user_image": "https://randomuser.me/api/portraits/men/33.jpg",
+                        "comment_text": "I’ve always thought mornings were overrated. There's something about the night that feels more peaceful, more reflective. But perhaps it's just a matter of perspective.",
+                        "timestamp": "2024-08-15T16:44:31.509Z",
+                        "like_count": 4,
+                        "smile_count": 2,
+                        "dislike_count": 5,
+                        "replies": []
+                    }
+                ]
+            },
+            {
+                "id": 6,
+                "parent_comment": "John Doe",
+                "user_name": "Emily Davis",
+                "user_image": "https://randomuser.me/api/portraits/women/45.jpg",
+                "comment_text": "Morning routines are the best. They set the tone for the day ahead, and they’re my favorite part of the day. What do you all think?",
+                "timestamp": "2024-08-16T15:00:34.664Z",
+                "like_count": 7,
+                "smile_count": 9,
+                "dislike_count": 1,
+                "replies": []
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "parent_comment": "",
+        "user_name": "Alice Johnson",
+        "user_image": "https://randomuser.me/api/portraits/women/62.jpg",
+        "comment_text": "The afternoon sun always brings with it a sense of calm and clarity. As Alice sat by the window, she felt the warmth on her face and let out a deep sigh. It was going to be a good day.",
+        "timestamp": "2024-08-15T16:44:31.509Z",
+        "like_count": 12,
+        "smile_count": 4,
+        "dislike_count": 0,
+        "replies": []
+    },
+    {
+        "id": 3,
+        "parent_comment": "",
+        "user_name": "Michael Lee",
+        "user_image": "https://randomuser.me/api/portraits/men/60.jpg",
+        "comment_text": "There’s something magical about the night. It’s as if the world is wrapped in a blanket of mystery, and all the secrets are waiting to be discovered. Michael had always been a night owl, and tonight was no different.",
+        "timestamp": "2024-08-14T16:44:31.509Z",
+        "like_count": 17,
+        "smile_count": 5,
+        "dislike_count": 2,
+        "replies": []
+    }
+]
